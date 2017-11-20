@@ -1,0 +1,10 @@
+<view class='body'>
+  <view class='heder'>
+    <image  class="tupin" src='https://y.gtimg.cn/music/photo_new/T002R150x150M000000GJWeQ1Sx0Is.jpg?max_age=2592000'></image>
+    <view class='detail'>
+      <text>歌曲名</text>
+      <text>歌曲详细</text>
+    </view>
+    <image  class="play" src='/images/icon-pause.png'></image>
+  </view>
+</view>

@@ -1,0 +1,31 @@
+/* pages/playsong/playsong.wxss */
+page{
+  width: 100%;
+  height: 100%;
+  background: #666;
+}
+.body{
+   width: 100%;
+  height: 100%;
+  
+}
+.body .heder {
+  display: flex;
+  padding: 20rpx 20rpx;
+}
+
+.body .heder .detail text{
+  display: block
+}
+.body .heder .detail{
+  flex: auto;
+}
+.body .heder .tupin{
+  width: 120rpx;
+  height: 120rpx;
+}
+.body .heder .play{
+  width: 90rpx;
+  height: 90rpx;
+  float: right;
+}
