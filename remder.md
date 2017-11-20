@@ -1,27 +1,28 @@
-## svn git  ���ŶӺ���
+## svn git  来团队合作
 
-//��ʼ��
+//初始化
 git init 
 
-//����ĳ���ļ�  һ��д./  �����ļ�
+//添加某个文件  一般写./  所有文件
 git add README.md
 
-//�鿴״̬
+//查看状态
 git status
 
-//�Ѵ����ύ�� ���ص� .git �ļ��������
+//把代码提交到 本地的 .git 文件里面管理
 git commit -m "first commit"
 
-//����Զ���ϴ���ַ
+//添加远程上传地址
 git remote add origin https://github.com/youzhidong/jkbbb.git
+//地址
 
-//�ϴ��ļ�
+//上传文件
 git push -u origin master
 
 
 
-## ��ɹ�����
+## 完成功能有
 
 
 
-## bug: 1.���а�δ���   2. ����ҳ�治����һ��
+## bug: 1.排行榜未完成   2. 播放页面不能下一首
