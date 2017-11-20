@@ -14,7 +14,7 @@ git commit -m "first commit"
 
 //添加远程上传地址
 git remote add origin https://github.com/youzhidong/jkbbb.git
-//地址
+//地址hhhh
 
 //上传文件
 git push -u origin master
